@@ -1,15 +1,16 @@
+
 # BASIC-ANDROID-_EX_01_Implementation of a Hello world Activity using all lifecycles methods using Android Studio.
 
 ## Reg no:212222040131
-# AIM:
-
+## AIM:
 To create Hello world Activity using all lifecycles methods to display messages using android studio.
 
-# EQUIPMENTS REQUIRED:
+## EQUIPMENTS REQUIRED:
 
 Android Studio(Min. required Artic Fox)
 
-# ALGORITHM:
+
+## ALGORITHM:
 
 Step 1: Open Android Stdio and then click on File -> New -> New project.
 
@@ -25,11 +26,13 @@ Step 6: Display message give in MainActivity file.
 
 Step 7: Save and run the application.
 
-# PROGRAM
-# DEVELOPED BY : Ranjana J
-# MainActivity.java:
 
-```
+## PROGRAM
+### DEVELOPED BY : Ranjana J
+
+
+### MainActivity.java:
+```C
 package com.example.andriodlifecycle;
 
 import android.os.Bundle;
@@ -94,8 +97,9 @@ public class MainActivity extends AppCompatActivity {
     }
 }
 ```
-# Activity_Main.XML:
-```
+
+### Activity_Main.XML:
+```C
 <?xml version="1.0" encoding="utf-8"?>
 <androidx.constraintlayout.widget.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
     xmlns:app="http://schemas.android.com/apk/res-auto"
@@ -115,20 +119,26 @@ public class MainActivity extends AppCompatActivity {
         app:layout_constraintTop_toTopOf="parent" />
 
 </androidx.constraintlayout.widget.ConstraintLayout>
-
 ```
-# OUTPUT:
-# OnCreate Executed: 
-![364629911-3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b](https://github.com/user-attachments/assets/c015ca13-53c4-48e3-b2f4-fe7c14e728e7)
-# OnPause Executed:
-![364629961-148997cf-afb3-4480-9750-24e5717678b6](https://github.com/user-attachments/assets/ada5b484-0fc7-4f33-9e41-bd37551e8c66)
-# OnResume Executed:
-![364629991-cc8d2106-38a4-4911-8fe6-32735466f104](https://github.com/user-attachments/assets/2388c9d4-bafe-4bc0-b02c-1e87efe4c3be)
-# OnRestart Executed:
-![364630032-c0f5fb51-3e91-4c53-a764-5caee17ef75f](https://github.com/user-attachments/assets/f7acc9c6-9d8a-46cc-899f-d72c44825f12)
-# OnStart Executed:
-![364630080-df5260af-6949-4593-9ffe-0677e2bc5c46](https://github.com/user-attachments/assets/452f29bb-8bb3-4d65-9719-8c1fb449833a)
 
-# RESULT:
+## OUTPUT:
+## OnCreate Executed:
+<img src="https://github.com/user-attachments/assets/3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b" width="400">
 
+## OnPause Executed:
+<img src="https://github.com/user-attachments/assets/148997cf-afb3-4480-9750-24e5717678b6" width="400">
+
+## OnResume Executed:
+<img src="https://github.com/user-attachments/assets/cc8d2106-38a4-4911-8fe6-32735466f104" width="400">
+
+## OnRestart Executed:
+<img src="https://github.com/user-attachments/assets/c0f5fb51-3e91-4c53-a764-5caee17ef75f" width="400">
+
+## OnStart Executed:
+<img src="https://github.com/user-attachments/assets/df5260af-6949-4593-9ffe-0677e2bc5c46" width="400">
+
+
+
+
+## RESULT:
 Thus a program to implement the various life cycles of an activity is written and successfully executed using Android Studio.
