@@ -120,19 +120,13 @@ public class MainActivity extends AppCompatActivity {
 # OUTPUT:
 # OnCreate Executed: 
 ![364629911-3fc7a4af-da6f-47a2-a9ce-2a0d5357dd0b](https://github.com/user-attachments/assets/c015ca13-53c4-48e3-b2f4-fe7c14e728e7)
-
 # OnPause Executed:
 ![364629961-148997cf-afb3-4480-9750-24e5717678b6](https://github.com/user-attachments/assets/ada5b484-0fc7-4f33-9e41-bd37551e8c66)
-
 # OnResume Executed:
 ![364629991-cc8d2106-38a4-4911-8fe6-32735466f104](https://github.com/user-attachments/assets/2388c9d4-bafe-4bc0-b02c-1e87efe4c3be)
-
 # OnRestart Executed:
-
 ![364630032-c0f5fb51-3e91-4c53-a764-5caee17ef75f](https://github.com/user-attachments/assets/f7acc9c6-9d8a-46cc-899f-d72c44825f12)
-
 # OnStart Executed:
-
 ![364630080-df5260af-6949-4593-9ffe-0677e2bc5c46](https://github.com/user-attachments/assets/452f29bb-8bb3-4d65-9719-8c1fb449833a)
 
 # RESULT:
